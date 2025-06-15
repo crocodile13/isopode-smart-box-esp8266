@@ -34,8 +34,8 @@ float temperature, humidity;             // Valeurs mesurées
 bool fanOn = false;                      // État du ventilateur
 
 // === Réseau Wi-Fi (mode station) ===
-const char* ssid = "Madame_Lapin_box_4655434B";  // SSID Wi-Fi
-const char* password = "Mdpscv|Dmscr!";           // Mot de passe Wi-Fi
+const char* ssid = "SSID_WIFI";  // SSID Wi-Fi
+const char* password = "PASSWORD_WIFI";           // Mot de passe Wi-Fi
 IPAddress localIP;                               // Adresse IP obtenue
 
 // === SETUP ===
