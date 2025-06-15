@@ -2,6 +2,10 @@
 
 Ce projet permet de lire la température et l'humidité via un capteur **DHT22**, d'afficher les données sur un écran **OLED SSD1306 (128x32)**, de contrôler un ventilateur (ON/OFF) en fonction des seuils définis, et de configurer les consignes à distance via une **interface web embarquée**.
 
+![Installation 1](img1.jpg)
+![Installation 2](img3.jpg)
+![Installation 3](img2.jpg)
+
 ## 🔧 Matériel requis
 
 - ESP8266 (NodeMCU, Wemos D1 Mini…)
