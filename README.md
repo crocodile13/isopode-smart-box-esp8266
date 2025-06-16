@@ -5,6 +5,7 @@ Ce projet permet de lire la température et l'humidité via un capteur **DHT22**
 ![Installation 1](img1.jpg)
 ![Installation 2](img3.jpg)
 ![Installation 3](img2.jpg)
+![Installation 4](img4.png)
 
 ## 🔧 Matériel requis
 
